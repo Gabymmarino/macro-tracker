@@ -1,0 +1,24 @@
+{
+    "goals": {
+        "current_weight": 65.0,
+        "desired_weight": 65.0,
+        "target_protein": 130,
+        "target_carbs": 200,
+        "target_fats": 60
+    },
+    "2026-11-09": {
+        "meals": [
+            {
+                "calories": 73,
+                "protein": 5,
+                "carbs": 5,
+                "fats": 5,
+                "added_sugars": 4,
+                "meal_name": "ferrero rocher",
+                "logged_at": "2026-11-09 02:26",
+                "description": "Manual entry"
+            }
+        ],
+        "target_burn": 1650
+    }
+}
